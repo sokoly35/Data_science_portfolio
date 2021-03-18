@@ -1,5 +1,5 @@
 # Data Science Portfolio
-
+Data science portfolio which contains projects done by me for self-learning and hobby purposes. Every project is presented in IPython Notebook. If the file don't want to render, I recommend pasting its link in [Jupyter's nbviewer](https://nbviewer.jupyter.org/).
 
 
 ## Contents
@@ -18,9 +18,13 @@
 
 - ### Time Series Analysis
 
-     - [Warm-up Predictions](https://github.com/sokoly35/Data_science_portfolio/blob/main/warm%20up%20predictions/warm_up_prediction.ipynb): One of Why R? hackathon's challenge. Project includes step by step modeling time series with SARIMA model.
+     - [Warm-up Predictions](https://github.com/sokoly35/Data_science_portfolio/blob/main/warm%20up%20predictions/warm_up_prediction.ipynb): One of Why R? hackathon's challenge. The project includes step by step modeling time series with SARIMA model.
 
      Tools: Statsmodels, Pandas, Seaborn
+     
+This repository and projects which it contains can be in progress. If any project don't have description so work is in progress.
+
+If you want to discuss something about content presented in this portfolio please send me an e-mail on rafal.michal.sokolowski@gmail.com.
 
 
 
