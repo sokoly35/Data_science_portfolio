@@ -11,17 +11,17 @@ Data science portfolio which contains projects done by me for self-learning and 
 
      Tools: Scickit-learn, Pandas, Seaborn, Matplotlib, Numpy, tensorflow
 
-- ### Natural Language Processing
-
-     - [Fake News Detector](https://github.com/sokoly35/Fake_news/blob/main/fake_news_detector.ipynb): Binary classification problem. An introduction to nlp including data preprocessing with regular expressions and tools like TfIdf.
-
-     Tools: Scickit-learn, Pandas, Spacy, Re
-
 - ### Time Series Analysis
 
      - [Warm-up Predictions](https://github.com/sokoly35/Data_science_portfolio/blob/main/warm%20up%20predictions/warm_up_prediction.ipynb): One of Why R? hackathon's challenge. The project includes step by step modeling time series with SARIMA model.
 
      Tools: Statsmodels, Pandas, Seaborn
+     
+- ### Natural Language Processing
+
+     - [Fake News Detector](https://github.com/sokoly35/Fake_news/blob/main/fake_news_detector.ipynb): Binary classification problem. An introduction to nlp including data preprocessing with regular expressions and tools like TfIdf.
+
+     Tools: Scickit-learn, Pandas, Spacy, Re
      
 This repository and projects which it contains can be in progress. If any project don't have description so work is in progress.
 
