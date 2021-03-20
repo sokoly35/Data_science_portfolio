@@ -13,7 +13,7 @@ Data science portfolio which contains projects done by me for self-learning and 
 
 - ### Time Series Analysis
 
-     - [Warm-up Predictions](https://github.com/sokoly35/Data_science_portfolio/blob/main/warm%20up%20predictions/warm_up_prediction.ipynb): One of Why R? hackathon's challenge. The project includes step by step modeling time series with SARIMA model.
+     - [Warm-up Predictions](https://github.com/sokoly35/Data_science_portfolio/tree/main/warm%20up%20predictions): One of Why R? hackathon's challenge. The project includes step by step modeling time series with SARIMA model.
 
      Tools: Statsmodels, Pandas, Seaborn
      
