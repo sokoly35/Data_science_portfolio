@@ -1,5 +1,6 @@
 # Warm-up prediction
 
+If you have any problems with rendering IPython Notebook file I recommend to paste its link in [Jupyter's nbviewer](https://nbviewer.jupyter.org/).
 
 ## Overview
 
