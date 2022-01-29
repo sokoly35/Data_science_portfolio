@@ -1,5 +1,5 @@
 # Data Science Portfolio
-Data science portfolio which contains projects done by me for self-learning and hobby purposes. Every project is presented in IPython Notebook. If the file don't want to render, I recommend pasting its link in [Jupyter's nbviewer](https://nbviewer.jupyter.org/).
+Data science portfolio which contains projects done by me for self-learning, study courses or hobby purposes. Most of the projects are presented in IPython Notebooks. If the file doesn't want to render, I recommend pasting its link in [Jupyter's nbviewer](https://nbviewer.jupyter.org/).
 
 
 ## Contents
@@ -22,6 +22,18 @@ Data science portfolio which contains projects done by me for self-learning and 
      - [Fake News Detector](https://github.com/sokoly35/Fake_news): Binary classification problem. An introduction to nlp including data preprocessing with regular expressions and tools like TfIdf.
 
      Tools: Scickit-learn, Pandas, Spacy, Re
+     
+- ### Speech recognition
+
+     - [Speech Recognition using Hidden Markov Models](https://github.com/sokoly35/BSc_hmm_speech_recognition) My BCs thesis project repo. The aim was to analyze behavior of HMM models on observations in the presence of noise. The theory behind each step is detailed in article.pdf file.
+
+     Tools: Librosa, Searborn
+    
+- ### Database
+
+     - [Veterinary Clinic simulation](https://github.com/sokoly35/bazy-danych-klinika-wet) simulating the data of example veterinary clinic, creating database and data analysis via MySQL.
+
+     Tools: MySQL, Pandas, Seaborn 
      
 This repository and projects which it contains can be in progress. If any project don't have description so work is in progress.
 
